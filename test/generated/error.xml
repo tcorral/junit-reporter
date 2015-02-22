@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<testsuite name="root" errors="1">
+	<testsuite name="error">
+		<testcase name="testcase">
+			<failure>
+				&#34;The test error has failed due to: put your error here&#34;
+			</failure>
+		</testcase>
+	</testsuite>
+</testsuite>

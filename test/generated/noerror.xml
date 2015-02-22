@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<testsuite name="root" errors="0">
+	<testsuite name="no-error">
+		<testcase name="testcase">
+		</testcase>
+	</testsuite>
+</testsuite>
